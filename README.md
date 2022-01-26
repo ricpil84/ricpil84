@@ -1,5 +1,8 @@
 ### Hi there 👋
-I'm a wannabe developer, new on GitHub!
+<p>I'm a wannabe developer, new on <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/
+github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"><img alt="GitHub"
+src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
+style="max-width: 100%;" width="16px"></a></p>
 
 <!--
 **ricpil84/ricpil84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
