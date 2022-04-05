@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>I'm a wannabe developer, new on <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/
+<p>new on <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/
 github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"><img alt="GitHub"
 src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
 style="max-width: 100%;" width="16px"></a></p>
